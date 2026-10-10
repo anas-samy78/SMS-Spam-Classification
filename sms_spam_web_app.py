@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide",
 )
 
-MODEL_PATH = r"F:\Ai Course - Aibdaya\Machine learning projects\DL\NLP\bilstm_spam.pth"
+MODEL_PATH = "bilstm_spam.pth"
 MAX_CHARS = 500
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
