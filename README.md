@@ -276,8 +276,8 @@ print(f"Spam probability: {p_spam:.2%}")
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/anas-samy-907072320/)
+- GitHub: [anas-samy78](https://github.com/anas-samy78)
+- LinkedIn: (https://www.linkedin.com/in/anas-samy-907072320/)
 
 ---
 
