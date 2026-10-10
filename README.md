@@ -2,7 +2,7 @@
 
 An end-to-end NLP project that classifies SMS messages as **Spam** or **Not Spam (Ham)**. It covers the whole pipeline: data preprocessing, building a vocabulary, using pre-trained **GloVe** embeddings, training and comparing several recurrent architectures (**RNN / LSTM / GRU / BiLSTM**) in **PyTorch**, and serving the best model through an interactive **Streamlit** web app.
 
-![App screenshot](assets/app_screenshot.png)
+Live Demo: https://sms-spam-classification-anas-samy.streamlit.app/
 
 ---
 
@@ -15,7 +15,7 @@ An end-to-end NLP project that classifies SMS messages as **Spam** or **Not Spam
 - [Models Explored](#-models-explored)
 - [Final Model Architecture](#-final-model-architecture)
 - [Results](#-results)
-- [Web App](#-web-app)
+- [Web App](https://sms-spam-classification-anas-samy.streamlit.app/)
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Usage](#-usage)
@@ -277,7 +277,7 @@ print(f"Spam probability: {p_spam:.2%}")
 
 **Your Name**
 - GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [your-profile](https://www.linkedin.com/in/anas-samy-907072320/)
 
 ---
 
